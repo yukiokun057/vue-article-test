@@ -1,18 +1,19 @@
 # vue-article-test
 
-Vue application for a test task. 
+Vue application for a test task. Build it and you can observe an article about Lorem Ipsum :)  
+⏲ Designed for a 6 hours
 
-🎪 App features:
-• Sign in / Sign Up / Logout
-• Observe the article
-• Observe the comments
-• Add the comment if user authorised
+## 🎪 App features:  
+• Sign in / Sign Up / Logout  
+• Server work emulation  
+• Observe the article  
+• Observe the comments  
+• Add the comment if user authorised  
 
-⏲ Designed for a 6 hours.
-
-👨‍🔧What can enhance:  
+## 👨‍🔧 What could be enhanced:
 • Add loading indicators in places where emulates work with a server  
-• Change work of 'comment adding' feature. Should use promises in the code and add comment-object into the store. Then change property 'isConfirmed' to true and play it out with styles  
+• Change work of 'comment adding' feature. Should use promises in the code and add comment-object into the store.
+Then change property 'isConfirmed' to true and play it out with styles  
 
 ## Project setup
 ```
