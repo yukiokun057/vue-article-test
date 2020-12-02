@@ -10,9 +10,9 @@ Vue application for a test task.
 
 ⏲ Designed for a 6 hours.
 
-👨‍🔧What can enhance:
-• Add loading indicators in places where emulates work with a server
-• Change work of 'comment adding' feature. Should use promises in the code and add comment-object into the store. Then change property 'isConfirmed' to true and play it out with styles.
+👨‍🔧What can enhance:  
+• Add loading indicators in places where emulates work with a server  
+• Change work of 'comment adding' feature. Should use promises in the code and add comment-object into the store. Then change property 'isConfirmed' to true and play it out with styles  
 
 ## Project setup
 ```
