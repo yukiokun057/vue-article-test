@@ -1,0 +1,30 @@
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    &__loading-area {
+    }
+    &__content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 50%;
+  
+      transition: 0.5s ease;
+  
+      @media screen and (min-width: 1300px) {
+        width: 33%;
+      }
+      @media screen and (max-width: 900px) {
+        width: 66%;
+      }
+      @media screen and (max-width: 600px) {
+        width: 95%;
+      }
+    }
+    &__item {
+      & ~ & {
+        margin-top: 50px;
+      }
+    }
+  }
