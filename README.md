@@ -3,6 +3,9 @@
 Vue application for a test task. Build it and you can observe an article about Lorem Ipsum :)  
 ⏲ Designed for a 6 hours
 
+## Links:  
+[DEMO](https://vue-article-test.herokuapp.com/)
+
 ## 🎪 App features:  
 • Sign in / Sign Up / Logout  
 • Server work emulation  
